@@ -3,7 +3,7 @@
 An example of the game via terminal below:
 
 ![visualization
-demo](https://github.com/beilmanmich/donors_dashboard/blob/master/viz_demo.gif)
+demo](https://github.com/beilmanmich/battle_ship/blob/master/battle_ship.png)
 
 ## Getting started
 
